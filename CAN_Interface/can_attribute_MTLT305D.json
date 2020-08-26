@@ -14,7 +14,7 @@
         "bits_unit_bhr2": [0],
         "pkt_rate":1,
         "pkt_type":7,
-        "lpf_filter":[25, 25],
+        "lpf_filter":[25, 5],
         "orientation":[0, 0],
         "algo_ctl":"00D007D0070A00",
         "set_bank_ps0": {

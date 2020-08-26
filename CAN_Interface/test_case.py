@@ -8,6 +8,7 @@ import sys
 import time
 import struct
 import datetime
+import traceback
 from device import aceinna_device # need to be delete
 
 class aceinna_test_case():
